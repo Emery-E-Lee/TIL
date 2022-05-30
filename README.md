@@ -1,2 +1,3 @@
-# TIL
-Today I Learned
+## TIL
+
+- 매일 매일 공부한 내용을 기록합니다.
